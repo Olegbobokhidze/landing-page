@@ -1,7 +1,7 @@
 # landing-page
 # Frontend Mentor - E-commerce product page
 
-![Design preview for the product](./design/desktop-preview.jpg)
+![Design preview for the product](desktop-preview.jpg)
 
 - [Overview](#overview)
   - [Links](#links)
