@@ -14,7 +14,7 @@ landing page
 
 ### Links
 
-- Live Site URL: [E-commerce-page](https://olegbobokhidze.github.io/E-commerce-page/)
+- Live Site URL: [page](https://olegbobokhidze.github.io/landing-page/)
 
 
 ### Built with
